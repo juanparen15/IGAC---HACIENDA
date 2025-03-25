@@ -1,5 +1,5 @@
-/.phpunit.cache
-/node_modules
+# /.phpunit.cache
+# /node_modules
 #/public/build
 # /public/hot
 # /public/storage
@@ -16,4 +16,4 @@
 # /.vscode
 # node_modules
 # package-lock.json
-node_modules
+# node_modules
